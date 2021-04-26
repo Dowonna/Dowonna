@@ -1,16 +1,17 @@
-### Hi there 👋
+# Kamil Lee | @Dowonna
 
-<!--
-**Dowonna/Dowonna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+데이터 분석가를 꿈꾸는 개발자 이민재입니다. 🙋‍♂️
 
-Here are some ideas to get you started:
+개발보다는 분석하는 것을 선호합니다만, 그렇다고 개발을 게을리하거나 하지는 않습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TIL의 소중함을 최근이 되어서야 깨달아서, 지금부터라도 부지런히 작성해 나아가도록 하겠습니다.
+
+자신보다는 다른 이들에게 도움이 되었으면 하는 바람으로 정리하는 것에 서슴지 않습니다.
+
+☕ 네스프레소 커피를 누구보다 사랑합니다.
+
+## Contact
+
+* `E-mail` | parousia0918@gmail.com
+* `GitHub` | https://github.com/Dowonna
+* `Blog` | https://www.notion.so/71c444a32b464e35bfb9940e3698658a
